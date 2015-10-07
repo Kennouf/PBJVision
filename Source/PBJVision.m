@@ -208,6 +208,7 @@ typedef NS_ENUM(GLint, PBJVisionUniformLocationTypes)
 @synthesize videoBitRate = _videoBitRate;
 @synthesize additionalCompressionProperties = _additionalCompressionProperties;
 @synthesize maximumCaptureDuration = _maximumCaptureDuration;
+@synthesize customVideoSize = _customVideoSize;
 
 #pragma mark - singleton
 
